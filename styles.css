@@ -1,0 +1,14 @@
+.text{
+    height:40px;
+    border:solid;
+    
+}
+.mistake{
+    background-color: yellow;
+}
+#custom{
+    background-color: cyan;
+    width:130px;
+    height:60px;
+    display:none;
+}
